@@ -2,7 +2,6 @@
 <h1 align="center">Hi I'm Ange BARDET</h1><br>
 <h3 align="center">Currently in second year of studying in computer science</h3>
 
-
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white)
@@ -28,6 +27,10 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+
+# Projects
+Here you can see some of my school and personal projects.
+[Click here](http://portfolio.angebardet.social/?lang=en#projets_sco)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ange-bardet&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
