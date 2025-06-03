@@ -49,6 +49,7 @@
 
 ### Other:
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white)
+![Obsidian](https://img.shields.io/badge/Obsidian-%237C3AED.svg?style=flat&logo=obsidian&logoColor=white)
 <!---
 vscode
 -->
