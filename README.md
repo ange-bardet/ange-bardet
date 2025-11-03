@@ -1,6 +1,6 @@
 # 💫 About Me:
 <h1 align="center">Hi I'm Ange BARDET</h1><br>
-<h3 align="center">Currently in second year of studying in computer science</h3>
+<h3 align="center">Currently in third year of studying in computer science</h3>
 
 # 💻 Tech Stack:
 ### Operating Systems:
